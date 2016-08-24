@@ -10,3 +10,4 @@ echo """
 	Under the MIT Lisence
 
 """
+print "Hello!"
